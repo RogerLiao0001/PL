@@ -13,6 +13,6 @@
 > ——蔡芸琤老師
 
 本週完成：Anaconda安裝、個人Github頁面建置 <br />
-## Week <br />
+## Week 2<br />
 # 作業連結區<br />
 # 專題連結區

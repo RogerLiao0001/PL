@@ -14,6 +14,6 @@
 
 本週完成：Anaconda安裝、個人Github頁面建置 <br />
 ## Week 2<br />
-[練習1]: https://github.com/RogerLiao0001/PL/blob/main/practice1.ipynb  
+https://github.com/RogerLiao0001/PL/blob/main/practice1.ipynb  
 # 作業連結區<br />
 # 專題連結區

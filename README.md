@@ -16,7 +16,7 @@
 ## Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
 [練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  
-[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb) 
-[練習3/3：]() 
+[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb)  
+[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb) 
 # 作業連結區<br />
 # 專題連結區

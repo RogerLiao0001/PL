@@ -15,6 +15,6 @@
 本週完成：Anaconda安裝、個人Github頁面建置 <br />
 ## Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/practice1.ipynb)  
-[練習1/3](https://github.com/RogerLiao0001/PL/blob/main/practice%201-3.ipynb)
+[練習1/3:賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/practice%201-3.ipynb)
 # 作業連結區<br />
 # 專題連結區

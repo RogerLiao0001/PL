@@ -14,9 +14,22 @@
 
 本週完成：Anaconda安裝、個人Github頁面建置 <br />
 ## Week 2<br />
+・本週主題：Python基礎1  
+・本週教學內容：  
+1.變數種類：int, float, str, bool(布林值)  
+2.條件：for迴圈、if用法  
+3.其他：兩資料列表比較、資料查找技巧(W3school, cs50 course)、list用法  
+・本週作業：  
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
 [練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  
 [練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb)  
 [練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb) 
+・本週討論回應紀錄：  
+>問題：兩個資料進行比較的例子  
+>回答：  
+>List A: 曾經借Youbike的悠遊卡卡號  
+>List B: 曾經還Youbike的悠遊卡卡號  
+>取差集：偷走Youbike的人 
+
 # 作業連結區<br />
 # 專題連結區

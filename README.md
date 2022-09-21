@@ -23,10 +23,11 @@
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
 [練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  
 [練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb)  
-[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb) 
+[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb)  
 ・本週討論回應紀錄：  
->問題：兩個資料進行比較的例子  
->回答：  
+問題：  
+>請提供兩個資料進行比較的例子    
+回答：  
 >List A: 曾經借Youbike的悠遊卡卡號  
 >List B: 曾經還Youbike的悠遊卡卡號  
 >取差集：偷走Youbike的人 

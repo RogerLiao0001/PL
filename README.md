@@ -21,10 +21,10 @@
 3.其他：兩資料列表比較、資料查找技巧(GeeksforGeeks, W3school, cs50 course)、list用法  
 <br />
 ・本週完成的練習：  
-[課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
-[練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  
-[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb)  
-[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb)  
+[課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  
+[練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%201-3.ipynb)  
+[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%202-3.ipynb)  
+[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%203-3.ipynb)  
 <br />
 ・本週討論回應紀錄：  
 問題：  
@@ -37,8 +37,8 @@
 
 # 作業連結區<br />
 ### Week 2<br />
-[課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
-[練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  
-[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%202-3.ipynb)  
-[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%203-3.ipynb)  
+[課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  
+[練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%201-3.ipynb)  
+[練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%202-3.ipynb)  
+[練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%203-3.ipynb)  
 # 專題連結區

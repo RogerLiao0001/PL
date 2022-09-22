@@ -18,7 +18,7 @@
 ・本週教學內容：  
 1.變數種類：int, float, str, bool(布林值)  
 2.條件：for迴圈、if用法  
-3.其他：兩資料列表比較、資料查找技巧(W3school, cs50 course)、list用法  
+3.其他：兩資料列表比較、資料查找技巧(GeeksforGeeks, W3school, cs50 course)、list用法  
 ・本週完成的練習：  
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20self-practice%201.ipynb)  
 [練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week1/W1%20practice%201-3.ipynb)  

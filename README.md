@@ -36,6 +36,7 @@
 >取差集：偷走Youbike的人 
 
 # Week 3  
+・本週教學內容：學期作業1解說  
 [學期作業1](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb)  
 # 作業連結區<br />
 ### Week 2<br />

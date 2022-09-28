@@ -35,7 +35,7 @@
 >List B: 曾經還Youbike的悠遊卡卡號  
 >取差集：偷走Youbike的人 
 
-# Week 3  
+## Week 3  
 ・本週教學內容：學期作業1解說  
 [學期作業1](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb)  
 # 作業連結區<br />
@@ -44,6 +44,6 @@
 [練習1/3：賠償金計算](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%201-3.ipynb)  
 [練習2/3：債務償還](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%202-3.ipynb)  
 [練習3/3：判決條件](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20practice%203-3.ipynb)  
-# Week 3  
+## Week 3  
 [學期作業1](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb)  
 # 專題連結區

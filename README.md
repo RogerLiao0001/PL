@@ -39,7 +39,9 @@
 ・本週教學內容：學期作業1解說  
 [學期作業1](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb)  
 ## Week4  
-[練習：字典-音樂流派](https://github.com/RogerLiao0001/PL/blob/main/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary.ipynb)
+・本週教學內容：黑客松說明、字典索引與實作  
+・本週進行活動：以雙人駕駛、導航方式進行任務Coding  
+[練習：字典-音樂流派](https://github.com/RogerLiao0001/PL/blob/main/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary.ipynb)  
 
 # 作業連結區<br />
 ### Week 2<br />

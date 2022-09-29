@@ -41,7 +41,7 @@
 ## Week4  
 ・本週教學內容：黑客松說明、字典索引與實作  
 ・本週進行活動：以雙人駕駛、導航方式進行任務Coding  
-[練習：字典-音樂流派](https://github.com/RogerLiao0001/PL/blob/main/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary.ipynb)  
+[練習：字典-音樂流派判斷器](https://github.com/RogerLiao0001/PL/blob/main/Week%204/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary%20-%20%E9%9B%BB%E9%9F%B3%E6%B5%81%E6%B4%BE%E5%88%A4%E6%96%B7%E5%99%A8.ipynb)  
 
 # 作業連結區<br />
 ### Week 2<br />
@@ -52,5 +52,5 @@
 ## Week 3  
 [學期作業1](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb) 
 ## Week 4
-[練習：字典-音樂流派](https://github.com/RogerLiao0001/PL/blob/main/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary.ipynb)
+[練習：字典-音樂流派判斷器](https://github.com/RogerLiao0001/PL/blob/main/Week%204/%E7%B7%B4%E7%BF%92%EF%BC%9Adictionary%20-%20%E9%9B%BB%E9%9F%B3%E6%B5%81%E6%B4%BE%E5%88%A4%E6%96%B7%E5%99%A8.ipynb)  
 # 專題連結區

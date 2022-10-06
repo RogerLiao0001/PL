@@ -52,6 +52,12 @@
 
 ## Week 4
 ・本週教學內容：  
+  1.學期作業1檢討與互評  
+  2.Json資料格式教學  
+  3.學期作業3宣布  
+<br />
+・學期作業2:  
+
 # 作業連結區<br />
 ### Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  

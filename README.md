@@ -50,7 +50,7 @@
 ・本週進行之導航coding任務作品：  
 [課堂任務：資料結構及使用者互動——犯罪記錄與罰金](https://github.com/RogerLiao0001/PL/blob/main/Week%204/%E8%AA%B2%E5%A0%82%E4%BB%BB%E5%8B%99%EF%BC%9A%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E5%8F%8A%E4%BD%BF%E7%94%A8%E8%80%85%E4%BA%92%E5%8B%95%E2%80%94%E2%80%94%E7%8A%AF%E7%BD%AA%E8%A8%98%E9%8C%84%E8%88%87%E7%BD%B0%E9%87%91.ipynb)  
 
-## Week 4
+## Week 
 ・本週教學內容：  
   1.學期作業1檢討與互評  
   2.Json資料格式教學  

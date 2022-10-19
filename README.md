@@ -40,7 +40,7 @@
 <br />
 ・本週完成之學期作業：  
 [學期作業1：以Pandas進行師大通識課程資料分析](https://github.com/RogerLiao0001/PL/blob/main/Week3/W3%E4%BD%9C%E6%A5%AD1.ipynb)  
-## Week4  
+## Week 4  
 ・本週教學內容：黑客松說明、字典索引與實作  
 ・本週進行活動：以雙人駕駛、導航方式進行任務Coding  
 <br />

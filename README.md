@@ -64,7 +64,7 @@
 2.學期作業1分享與討論  
 <br />
 ・本週完成之練習： 
-[學期作業2：Json資料處理——哪種行業最賺錢？](https://github.com/RogerLiao0001/PL/blob/main/Week%205/%E4%BD%9C%E6%A5%AD2%EF%BC%9AJson%E8%B3%87%E6%96%99%E8%99%95%E7%90%86%E2%80%94%E2%80%94%E5%93%AA%E7%A8%AE%E8%A1%8C%E6%A5%AD%E6%9C%80%E8%B3%BA%E9%8C%A2%EF%BC%9F.ipynb)  
+[學期作業2：Json資料處理——哪種行業最賺錢？](https://github.com/RogerLiao0001/PL/blob/main/Week%206/%E7%B7%B4%E7%BF%92%EF%BC%9A%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)  
 # 作業連結區<br />
 ### Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  
@@ -78,4 +78,6 @@
 [課堂任務：資料結構及使用者互動——犯罪記錄與罰金](https://github.com/RogerLiao0001/PL/blob/main/Week%204/%E8%AA%B2%E5%A0%82%E4%BB%BB%E5%8B%99%EF%BC%9A%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E5%8F%8A%E4%BD%BF%E7%94%A8%E8%80%85%E4%BA%92%E5%8B%95%E2%80%94%E2%80%94%E7%8A%AF%E7%BD%AA%E8%A8%98%E9%8C%84%E8%88%87%E7%BD%B0%E9%87%91.ipynb)
 ## Week 5
 [學期作業2：Json資料處理——哪種行業最賺錢？](https://github.com/RogerLiao0001/PL/blob/main/Week%205/%E4%BD%9C%E6%A5%AD2%EF%BC%9AJson%E8%B3%87%E6%96%99%E8%99%95%E7%90%86%E2%80%94%E2%80%94%E5%93%AA%E7%A8%AE%E8%A1%8C%E6%A5%AD%E6%9C%80%E8%B3%BA%E9%8C%A2%EF%BC%9F.ipynb)
+## Week 6
+[學期作業2：Json資料處理——哪種行業最賺錢？](https://github.com/RogerLiao0001/PL/blob/main/Week%206/%E7%B7%B4%E7%BF%92%EF%BC%9A%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)  
 # 專題連結區

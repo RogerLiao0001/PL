@@ -65,6 +65,7 @@
 ## Week 7
 ・ 本週教學內容：網路爬蟲、學期作業3宣布  
 ・學期作業3:  
+[學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)   
 <br />
 ・本週完成之練習：  
 [練習：資料正則化](https://github.com/RogerLiao0001/PL/blob/main/Week%206/%E7%B7%B4%E7%BF%92%EF%BC%9A%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)  
@@ -84,5 +85,5 @@
 ## Week 6
 [練習：資料正則化](https://github.com/RogerLiao0001/PL/blob/main/Week%206/%E7%B7%B4%E7%BF%92%EF%BC%9A%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)  
 ## Week 7
-
+[學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 # 專題連結區

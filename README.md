@@ -61,14 +61,15 @@
 ## Week 6
 ・本週教學內容：  
 1.Re函數 資料正則化及應用  
-2.學期作業1分享與討論  
-## Week 7
-・ 本週教學內容：網路爬蟲、學期作業3宣布  
-・學期作業3:  
-[學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)   
+2.學期作業1分享與討論
 <br />
 ・本週完成之練習：  
 [練習：資料正則化](https://github.com/RogerLiao0001/PL/blob/main/Week%206/%E7%B7%B4%E7%BF%92%EF%BC%9A%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)  
+## Week 7
+・ 本週教學內容：網路爬蟲、學期作業3宣布  
+<br />
+・學期作業3:  
+[學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 # 作業連結區<br />
 ### Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  

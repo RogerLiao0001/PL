@@ -72,7 +72,7 @@
 [學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 ## Week 9
 ・學期作業4:  
-[學期作業4：文字探勘](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
+[學期作業4：文字探勘](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98.ipynb)  
 # 作業連結區<br />
 ### Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  
@@ -92,5 +92,5 @@
 [學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 ## Week 9
 ・學期作業4:  
-[學期作業4：文字探勘](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
+[學期作業4：文字探勘](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98.ipynb)  
 # 專題連結區

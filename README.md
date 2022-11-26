@@ -71,8 +71,9 @@
 ・學期作業3:  
 [學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 ## Week 9
-・學期作業4:  
-[學期作業4：文字探勘：哪些工作會被AI取代？](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%EF%BC%9A%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABAI%E5%8F%96%E4%BB%A3.ipynb)  
+・學期作業4:文字探勘：哪些工作會被AI取代？  
+[程式碼連結](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%EF%BC%9A%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABAI%E5%8F%96%E4%BB%A3.ipynb)  
+[Medium文章連結](https://medium.com/@r995022526651/%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E7%94%A8python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%91%8A%E8%A8%B4%E4%BD%A0-48d14d571720)  
 # 作業連結區<br />
 ### Week 2<br />
 [課堂練習：法律條文](https://github.com/RogerLiao0001/PL/blob/main/week2/W2%20self-practice%201.ipynb)  
@@ -91,6 +92,7 @@
 ## Week 7
 [學期作業3：網路爬蟲](https://github.com/RogerLiao0001/PL/blob/main/Week%207/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD3-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.ipynb)  
 ## Week 9
-・學期作業4:  
-[學期作業4：文字探勘：哪些工作會被AI取代？](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%EF%BC%9A%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABAI%E5%8F%96%E4%BB%A3.ipynb)  
+・學期作業4:文字探勘：哪些工作會被AI取代？  
+[程式碼連結](https://github.com/RogerLiao0001/PL/blob/main/Week%209/%E5%AD%B8%E6%9C%9F%E4%BD%9C%E6%A5%AD4%20-%20%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%EF%BC%9A%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABAI%E5%8F%96%E4%BB%A3.ipynb)  
+[Medium文章連結](https://medium.com/@r995022526651/%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%E6%9C%83%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E7%94%A8python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%91%8A%E8%A8%B4%E4%BD%A0-48d14d571720)  
 # 專題連結區
